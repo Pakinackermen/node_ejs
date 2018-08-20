@@ -1,0 +1,25 @@
+.login{
+    margin-top:10%
+}
+body{
+    background-color: currentColor;
+    text-align: center
+}
+label ,span{
+    color: #fff
+}
+button{
+    width: 100%
+}
+a{
+    color: gray;
+}
+.pand{
+    background-color: aliceblue;
+    padding: 2em;
+    margin-top: 5%;    
+}
+h1 , a, button, div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace
+}
+
